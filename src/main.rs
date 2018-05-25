@@ -1,3 +1,8 @@
+
+fn five () {
+    
+}
+
 fn main() {
-    println!("Hello, world!");
+    let puzzle_input = "ckczppom";
 }
