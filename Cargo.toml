@@ -3,5 +3,8 @@ name = "aoc-rust"
 version = "0.1.0"
 authors = ["René Räisänen <rene.raisanen@knowit.no>"]
 
+[profile.release]
+debug = false
+
 [dependencies]
 md5 = "0.3.7"
